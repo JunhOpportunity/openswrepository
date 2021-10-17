@@ -3,3 +3,4 @@ number: 2021041052
 major: software
 grade: 1
 subject: opensw
+today good text: Don't give up until the end.
