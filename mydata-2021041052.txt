@@ -1,0 +1,5 @@
+name: KimJunho
+number: 2021041052
+major: software
+grade: 1
+subject: opensw
